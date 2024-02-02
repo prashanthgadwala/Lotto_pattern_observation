@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-file_path = '/Users/prashanthgadwala/Documents/Lotto/lotto.csv'
+file_path = '/Users/prashanthgadwala/PycharmProjects/Lotto_pattern_observation/Lotto.csv'
 column_names = ['Tag', 'Monat', 'Jahr', 'Zahl1', 'Zahl2', 'Zahl3', 'Zahl4', 'Zahl5', 'Zahl6', 'Superzahl']
 
 # Load data into a Pandas DataFrame
